@@ -34,7 +34,14 @@
   📄 자료 보기
 </a>
 
+### # 학술저널
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12296059">
+  📄 자료 보기
+</a><br>
+김민솔, 김종하, 이세훈. (2025). Spring WebFlux 기반 실시간 데이터 처리 시스템에서의 RDB와 NoSQL 성능 비교. <br>한국컴퓨터정보학회논문지 , 30(7), 1-10. 10.9708/jksci.2025.30.07.001
+
 ### # 학술대회 논문
 <a href="https://github.com/0206cho/Performance_Comparison_in_Real-Time_Data_Processing_Systems_with_Spring_DB/blob/main/libs/2025%E1%84%82%E1%85%A7%E1%86%AB%20%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%AE%E1%86%AF%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC%20%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB.pdf">
   📄 자료 보기
-</a>
+</a><br>
+이세훈, 김민솔, 김종하, 백영태. (2025-01-09). Spring WebFlux를 활용한 실시간 데이터 처리 시스템의 RDB와 NoSQL 성능 비교 분석. <br>한국컴퓨터정보학회 학술발표논문집 , 충남.
